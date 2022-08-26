@@ -15,7 +15,7 @@
 ### :technologist: About Me : 
 - interested to learn new technologies, find a good company and any collaborations for useful expirience
 - now really involved into studying React.js using Typescript
-- good in vanilla javascript, css3, HTML5
+- good in vanilla javascript, CSS3, HTML5
 
 ### :hammer_and_wrench: Things I work with : 
 <div>
