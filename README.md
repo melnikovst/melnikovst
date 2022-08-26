@@ -12,8 +12,10 @@
   </a>
 </div>
 
-### :technologist: About Me :
-
+### :technologist: About Me : 
+- interested to learn new technologies, find a good company and any collaborations for useful expirience
+- now really involved into studying React.js using Typescript
+- good in vanilla javascript, css3, HTML5
 
 ### :hammer_and_wrench: Things I work with : 
 <div>
@@ -28,3 +30,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=melnikovst" alt="stats" />
