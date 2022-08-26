@@ -1,7 +1,9 @@
 <div id="header" align="center" margin="20">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" />
 </div>
+<p>Hi there! My name's Stanislav, I'm a begginer frontend developer. Glad you to visited my page!</p>
 <div id="badges" align="center">
+  <p>You could contact me:</p>
   <a href="https://t.me/pay2w8">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" />
   </a>
@@ -10,7 +12,8 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+### :technologist: About Me :
+
 
 ### :hammer_and_wrench: Things I work with : 
 <div>
