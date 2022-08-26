@@ -1,7 +1,7 @@
 <div id="header" align="center" margin="20">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" />
 </div>
-<p>Hi there! My name's Stanislav, I'm a begginer frontend developer. Glad you to visited my page!</p>
+<p align="center">Hi there! My name's Stanislav, I'm a begginer frontend developer. Glad you to visited my page!</p>
 <div id="badges" align="center">
   <p>You could contact me:</p>
   <a href="https://t.me/pay2w8">
